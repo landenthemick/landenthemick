@@ -1,4 +1,4 @@
-<h2>Hello and Welcome></h2>
+<h2>Hello and Welcome</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-landenmick1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:landenmick1@gmail.com)](mailto:landenmick1@gmail.com)
 
@@ -12,8 +12,8 @@ Knowledge:
 ## A little about me:
 - Aiming for a Comp Sci major in college.
 - I currently attend a IB Highschool.
-- I make websites for companies and stores.
-```Live Link Coming Soon```
+- Currently I make full frame websites for companies and stores.
+```Live Links Coming Soon```
 ## Planning On:
 - Learning **C** and **C++**
 - Learning **GoLang (Go)**
@@ -21,6 +21,7 @@ Knowledge:
 ## print("Hello World!!") 🤔
 - 💬 Dm me on Discord! landn#9675
 - ⚡ Fun facts: I was introduced to programming in 6th grade.
+```PERSONAL WEBSITE COMING SOON```
 
 
 
