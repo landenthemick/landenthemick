@@ -8,7 +8,7 @@ Knowledge:
 - Front-End Web Development: **Html/Css/Bootstrap**
 - A little back-end: **Django(Python)**
 - Python: **Python**
-- Virtual Assistants:**python**
+- Virtual Assistants: **Python**
 ## A little about me:
 - Aiming for a Comp Sci major in college.
 - I currently attend a IB Highschool.
