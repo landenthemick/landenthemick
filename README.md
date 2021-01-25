@@ -12,7 +12,7 @@ Knowledge:
 ## A little about me:
 - Aiming for a Comp Sci major in college.
 - I currently attend a IB Highschool.
-- Currently I make full frame websites for companies and stores.
+- Currently I make full frame websites for companies and people.
 ```Live Links Coming Soon```
 ## Planning On:
 - Learning **C** and **C++**
