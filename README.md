@@ -22,7 +22,10 @@ Knowledge:
 - ⚡ Fun facts: I was introduced to programming in 6th grade.
 ```PERSONAL WEBSITE COMING SOON```
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landenthemick&show_icons=true&locale=en&layout=compact" alt="landenthemick" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landenthemick&show_icons=true&locale=en" alt="landenthemick" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=landenthemick&" alt="landenthemick" /></p>
 
 
