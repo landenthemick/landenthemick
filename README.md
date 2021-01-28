@@ -22,7 +22,7 @@ Knowledge:
 - ⚡ Fun facts: I was introduced to programming in 6th grade.
 ```PERSONAL WEBSITE COMING SOON```
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">passionate junior frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=landenthemick&label=Profile%20views&color=0e75b6&style=flat" alt="landenthemick" /> </p>
 
