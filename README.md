@@ -5,10 +5,9 @@
 My name is Landen, Im from the US and Portugal. I am always interested in taking part new projects and gaining new skills. Feel free to reach out to me via Discord.
 ## ⚡ Technologies
 Knowledge:
-- Front-End Web Development: **Html/Css/Bootstrap**
+- Front-End Web Development: **Html/Css/Bootstrap/JavaScript**
 - A little back-end: **Django(Python)**
-- Python: **Python**
-- Virtual Assistants: **Python**
+- Variety of Projects: **Python**
 ## A little about me:
 - Aiming for a Comp Sci major in college.
 - I currently attend a IB Highschool.
