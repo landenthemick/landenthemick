@@ -32,10 +32,6 @@ Knowledge:
 </p>
 
 
-```PERSONAL WEBSITE COMING SOON```
-
-
-<h3 align="center">passionate junior frontend developer</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
