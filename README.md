@@ -20,7 +20,9 @@ Knowledge:
 - Learning **GoLang (Go)**
 - Learning **More JS**
 ## print("Hello World!!") 🤔
-- 💬 </p>
+- ⚡ Fun facts: I was introduced to programming in 6th grade.
+
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/landenthemick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="landenthemick" height="30" width="40" /></a>
@@ -28,8 +30,10 @@ Knowledge:
 <a href="https://instagram.com/landn.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="landn.dev" height="30" width="40" /></a>
 <a href="https://discord.gg/#9675" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#9675" height="30" width="40" /></a>
 </p>
-- ⚡ Fun facts: I was introduced to programming in 6th grade.
+
+
 ```PERSONAL WEBSITE COMING SOON```
+
 
 <h3 align="center">passionate junior frontend developer</h3>
 
