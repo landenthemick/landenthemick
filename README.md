@@ -21,7 +21,7 @@ Knowledge:
 - Currently I make full frame websites for companies and people.
 ```Live Links Coming Soon```
 ## Planning On:
-- Learning **C** and **C++**
+- Learning **Kotlin**
 - Learning **GoLang (Go)**
 - Learning **More JS**
 ## print("Hello World!!") 🤔
