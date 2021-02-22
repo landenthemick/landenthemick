@@ -14,7 +14,7 @@ Knowledge:
 - Front-End Web Development: **Html/Css/Bootstrap/JavaScript**
 - A little back-end: **Django(Python)**
 - Variety of Projects: **Python**
-- Basic games and programs: C++
+- Basic games and programs: **C++**
 ## A little about me:
 - Aiming for a Comp Sci major in college.
 - I currently attend a IB Highschool.
