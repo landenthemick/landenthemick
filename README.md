@@ -21,9 +21,9 @@ Knowledge:
 - I currently attend a IB Highschool.
 - I have been working as a successful freelance web developer for a little over 4 years.
 ## Planning On:
-- Learning **Shell Scripting**
-- Learning **GoLang (Go)**
-- Learning **More JS**
+- Learning: **Shell Scripting**
+- Learning: **GoLang (Go)**
+- Learning: **More JS**
 
 
 </p>
