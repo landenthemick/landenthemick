@@ -13,7 +13,7 @@ My name is Landen, Im from the United States. I am always interested in taking p
 Knowledge:
 - Front-End Web Development: **HTML/CSS/Bootstrap/JavaScript**
 - A little back-end: **Django(Python)**
-- Server-Side, Back-End Development: **Java** **SQL**
+- Server-Side, Back-End Development: **Java/SQL**
 - Variety of Projects: **Python**
 - Basic games and programs: **C++**
 ## A little about me:
