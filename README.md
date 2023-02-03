@@ -19,7 +19,6 @@ Knowledge:
 - Pursuing Cybersecurity in College
 - I currently attend a IB Highschool.
 - I have been working as a successful freelance web developer for a little over 4 years.
-```Live Links Coming Soon```
 ## Planning On:
 - Learning **Kotlin**
 - Learning **GoLang (Go)**
