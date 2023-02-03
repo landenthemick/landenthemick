@@ -13,7 +13,7 @@ My name is Landen, Im from the United States. I am always interested in taking p
 Knowledge:
 - Front-End Web Development: **HTML/CSS/Bootstrap/JavaScript**
 - A little back-end: **Django(Python)**
-- Server-Side, Back-End Development: **Java**
+- Server-Side, Back-End Development: **Java** **SQL**
 - Variety of Projects: **Python**
 - Basic games and programs: **C++**
 ## A little about me:
@@ -21,11 +21,10 @@ Knowledge:
 - I currently attend a IB Highschool.
 - I have been working as a successful freelance web developer for a little over 4 years.
 ## Planning On:
-- Learning **Kotlin**
+- Learning **Shell Scripting**
 - Learning **GoLang (Go)**
 - Learning **More JS**
-## print("Hello World!!") 🤔
-- ⚡ Fun facts: I was introduced to programming in 6th grade.
+
 
 </p>
 <h3 align="center">Connect with me:</h3>
