@@ -16,9 +16,9 @@ Knowledge:
 - Variety of Projects: **Python**
 - Basic games and programs: **C++**
 ## A little about me:
-- Aiming for a Comp Sci major in college.
+- Pursuing Cybersecurity in College
 - I currently attend a IB Highschool.
-- Currently I make full frame websites for companies and people.
+- I have been working as a successful freelance web developer for a little over 4 years.
 ```Live Links Coming Soon```
 ## Planning On:
 - Learning **Kotlin**
