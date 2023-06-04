@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://dev.to/landenthemick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="landenthemick" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/landenthemick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="landenthemick" height="30" width="40" /></a>
-<a href="https://instagram.com/landn.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="landn.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/landn.mk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="landn.mk" height="30" width="40" /></a>
 <a href="https://discord.gg/#9675" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#9675" height="30" width="40" /></a>
 </p>
 
